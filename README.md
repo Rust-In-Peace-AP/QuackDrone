@@ -1,6 +1,4 @@
 # QuackDrone #
-
-  ---
   
   You should import it in the Cargo.toml as follow:  
 
