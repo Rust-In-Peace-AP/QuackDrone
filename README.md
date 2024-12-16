@@ -1,4 +1,4 @@
-# QuackDrone # :duck: :duck: :duck:
+# QuackDrone :duck: :duck: :duck:
   
   You should import it in the Cargo.toml as follow:  
 
