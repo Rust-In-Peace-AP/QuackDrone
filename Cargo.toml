@@ -1,5 +1,5 @@
 [package]
-name = "QuackDrone"
+name = "ap2024_rustinpeace_quackdrone"
 version = "0.1.0"
 edition = "2021"
 
